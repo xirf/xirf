@@ -1,4 +1,4 @@
-<img align="left" src="images/my-wife.webp" alt="MemCho" height="250" /> 
+<img align="left" src="images/pisu_200x300.webp" alt="MemCho" height="250" /> 
 
 ```bash
 andka@xirf
