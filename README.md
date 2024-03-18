@@ -15,7 +15,9 @@ Theme: Orchis-Light [GTK2/3]
 Languages: JS, TS, KT, PY
 Learning: Mobile Dev, ML
 ```
-<detaiils>
+
+<br>
+<details>
 <summary>More about me</summary>
 
 <a href="https://github.com/xirf/xirf">
