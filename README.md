@@ -15,6 +15,8 @@ Theme: Orchis-Light [GTK2/3]
 Languages: JS, TS, KT, PY
 Learning: Mobile Dev, ML
 ```
+<detaiils>
+<summary>More about me</summary>
 
 <a href="https://github.com/xirf/xirf">
   <picture>
@@ -43,3 +45,5 @@ Learning: Mobile Dev, ML
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xirf&layout=compact&langs_count=8&card_width=320" />
 </picture>
 </a>
+
+</details>
