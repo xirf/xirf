@@ -10,7 +10,6 @@ Waifu: Memcho - Oshi no Ko
 Desc: Adorable cat with devil horn
 Location: Magetan, East Java
 Resolution: Keep learning keep growing
-DE: Gnome 45.5
 WM Theme: Fluent-round-Light
 Theme: Orchis-Light [GTK2/3]
 Languages: JS, TS, KT, PY
