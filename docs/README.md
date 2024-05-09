@@ -7,7 +7,8 @@
 </p>
 <br>
 
-## Not much but honest
+## Not much but honest ❤️
+
 [![Javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=white)](https://github.com/xirf?tab=repositories&q=&type=&language=javascript&sort=)
 [![Typescript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/xirf?tab=repositories&q=&type=&language=typescript&sort=)
 [![PHP](https://img.shields.io/badge/php-4d588e?style=for-the-badge&logo=php&logoColor=white)](https://github.com/xirf?tab=repositories&q=&type=&language=php&sort=)
@@ -15,10 +16,11 @@
 [![Astro](https://img.shields.io/badge/astro-black?style=for-the-badge&logo=Astro&logoColor=white)](https://github.com/xirf?tab=repositories&q=&type=&language=astro&sort=)
 [![Python](https://img.shields.io/badge/python-367ab2?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/xirf?tab=repositories&q=&type=&language=python&sort=)
 
-
 <details>
-<summary>More about me</summary>
+<summary>Don't click or mem will bite you</summary>
+<img src="assets/angry.jpg" alt="MemCho" height="300" />
 
+<br />
 <a href="https://github.com/xirf/xirf">
   <picture>
   <source
