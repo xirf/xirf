@@ -1,7 +1,7 @@
 <h1> Hello, Do you know me?
   <a href="https://andka.my.id" target="blank"><img src="https://raw.githubusercontent.com/xirf/xirf/main/docs/assets/mem.png"  width="25%" align="right" alt="Memoji"/></a></h1>
 <h3> Well lets get known 🌟</h3>
-<p>Hi, I'm <b>Andika</b> an undergraduate informatic engginering and fullstack web developer with strong passion on Javascript environtment. I have build various project using React, Typescript, Astro, Express and NextJS. Now i learning about Mobile Development world with <a href="https://bankit.academy" target="blank">Bangkit Academy By Google</a> 
+<p>Hi, I'm <b>Andika</b>, an undergraduate informatic engineering student and a full-stack web developer with a strong passion for the JavaScript environment. I have built various projects using React, TypeScript, Astro, and Express. Currently, I am learning about the world of mobile development with <a href="https://bankit.academy" target="blank">Bangkit Academy</a> 
 </p>
 
 ## Not much but honest ❤️
