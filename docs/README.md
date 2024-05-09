@@ -1,11 +1,8 @@
-<a href="https://andka.my.id">
-<img align="right" src="assets/mem.png" alt="MemCho" height="200" />
-</a>
-<h1>Hi There do you know me?</h1>
-<h3 style="margin-bottom:4px;"> Well lets get known 🌟</h3>
+<h1> Hello, Do you know me?
+  <a href="https://taggo.one/clcmo"><img src="https://raw.githubusercontent.com/xirf/xirf/main/docs/assets/mem.png"  width="25%" align="right" alt="Memoji"/></a></h1>
+<h3> Well lets get known 🌟</h3>
 <p>Hi, I'm <b>Andika</b> an undergraduate informatic engginering and fullstack web developer with strong passion on Javascript environtment. I have build various project using React, Typescript, Astro, Express and NextJS. Now i learning about Mobile Development world with <a href="https://bankit.academy" target="blank">Bangkit Academy By Google</a> 
 </p>
-<br>
 
 ## Not much but honest ❤️
 
@@ -18,7 +15,7 @@
 
 <details>
 <summary>Don't click or mem will bite you</summary>
-<img src="assets/angry.jpg" alt="MemCho" height="300" />
+<img src="https://raw.githubusercontent.com/xirf/xirf/main/docs/assets/angry.jpg" alt="MemCho" height="300" />
 
 <br />
 <a href="https://github.com/xirf/xirf">
