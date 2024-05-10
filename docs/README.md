@@ -13,11 +13,6 @@
 [![Astro](https://img.shields.io/badge/astro-black?style=for-the-badge&logo=Astro&logoColor=white)](https://github.com/xirf?tab=repositories&q=&type=&language=astro&sort=)
 [![Python](https://img.shields.io/badge/python-367ab2?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/xirf?tab=repositories&q=&type=&language=python&sort=)
 
-<details>
-<summary>Don't click or mem will bite you</summary>
-<img src="https://raw.githubusercontent.com/xirf/xirf/main/docs/assets/angry.jpg" alt="MemCho" height="300" />
-
-<br />
 <a href="https://github.com/xirf/xirf">
   <picture>
   <source
