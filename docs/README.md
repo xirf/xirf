@@ -5,3 +5,5 @@ I'm currently focusing on my **thesis** 🎓, so my coding activity is a bit lim
 My current situation 👇
 
 ![Reviseeee!!!!](https://raw.githubusercontent.com/xirf/xirf/refs/heads/main/docs/doit.webp)
+
+Aku bisa rust coy
